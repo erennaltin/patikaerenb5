@@ -1,0 +1,29 @@
+.default {
+  padding: 8px 24px;
+  font-weight: bold;
+  background-color: transparent;
+  border: none;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+
+.primary {
+  background-color: blue;
+  color: white;
+  border-color: black;
+  border-radius: 12px
+}
+
+.dashed {
+  border: dashed;
+}
+
+.text {
+  border: none;
+}
+
+.link {
+  border: none;
+  color: blue;
+}
